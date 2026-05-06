@@ -1,6 +1,6 @@
 # Factor Zoo Shrinking
 
-Replication code for a master's thesis investigating whether dimensionality reduction improves out-of-sample portfolio performance in a high-dimensional asset-pricing environment.
+Replication code for the article "Zookeping: A Comparison of Factor Pruning Methods" by Hugo Rippe and Axel Riley.  The paper investigates among other things whether dimensionality reduction improves out-of-sample portfolio performance in a high-dimensional asset-pricing environment.
 
 ## Models
 
